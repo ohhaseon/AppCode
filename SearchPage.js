@@ -16,14 +16,14 @@ import MapView, { Marker } from 'react-native-maps';
 
 import firebase from 'firebase';
 var config = {
-  apiKey: 'AIzaSyBFGleFLxgnhUahU6LYlDpvuV22szEaVeE',
-  authDomain: 'project1-79c85.firebaseapp.com',
-  databaseURL: 'https://project1-79c85.firebaseio.com',
-  projectId: 'project1-79c85',
-  storageBucket: 'project1-79c85.appspot.com',
-  messagingSenderId: '1021320138247',
-  appId: '1:1021320138247:web:f0bb2d40ee10f17640e4a2',
-  measurementId: 'G-D3N4R2ERKY',
+  apiKey: 'xxx',
+  authDomain: 'xxx',
+  databaseURL: 'xxx',
+  projectId: 'xxx',
+  storageBucket: 'xxx',
+  messagingSenderId: 'xxx',
+  appId: 'xxx',
+  measurementId: 'xxx',
 };
 if (!firebase.apps.length) {
   firebase.initializeApp(config);
