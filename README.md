@@ -1,19 +1,13 @@
-# Sample Snack app
-
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
-
-This project is making safe restroom by using moanhwasil app.
-1. Making safe restroom with application by using ultraviolet[infrared] filter for detecting hidden camera.
-2. Making application with react native, Expo snack 
-3. User can save result if hidden camera is in the restroom or not.
-4. User can search other results in the DB.
-5. Database is firebase and real-time.
-6. Additional development is required for RGB detecting in app camera video.
+# Moanhwasil
+<br/>
+Moanhwasil is App making safe toilet for everyone by react native.
+<br/>
+## How to use 
+•	Check the presence of illegal camera using infrared detector filter.
+•	Record the results on the app along with the location of the toilet. (The location of the toilet is based on GPS)
+•	Users check the safety of the toilet by searching the information.<br>
+<br>
+## App UI
+<img width="200" src="https://user-images.githubusercontent.com/51503570/76427719-00815c00-63f0-11ea-8fb5-04e331c3fc78.png">
+<img width="200" src="https://user-images.githubusercontent.com/51503570/76427853-3cb4bc80-63f0-11ea-8fff-3c1e5364169b.png">
+<img width="200" src="https://user-images.githubusercontent.com/51503570/76427944-581fc780-63f0-11ea-91ec-1ca803e1d802.png">
