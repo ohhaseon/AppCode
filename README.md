@@ -2,8 +2,8 @@
 Moanhwasil is App making safe toilet for everyone by react native.
 
 ## How to use 
-•	Check the presence of illegal camera using infrared detector filter.
-•	Record the results on the app along with the location of the toilet. (The location of the toilet is based on GPS)
+•	Check the presence of illegal camera using infrared detector filter.<br>
+•	Record the results on the app along with the location of the toilet. (The location of the toilet is based on GPS)<br>
 •	Users check the safety of the toilet by searching the information.
 
 ## App UI
